@@ -1,0 +1,4 @@
+-> dokümentasyonda integration test kısmına kadar olan kısım eklenmiştir.
+-> swagger link: http://localhost:8080/swagger-ui/index.html
+-> live-coding esnasında yazılan kodda @jsonignore ve sort order düzeltimi dışında değişiklik yapılmamıştır.
+-> sport ranking ve country ranking eklenmiştir.
